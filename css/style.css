@@ -1,0 +1,28 @@
+h2.intro, h1.intro {
+  font-family: monospace;
+}
+
+img.intro {
+ border: 2px solid black;
+ float: left;
+ margin-right: 15px;
+}
+
+p.intro {
+  font-family: monospace;
+  font-weight: normal;
+}
+
+img {
+  float: left;
+  margin-left: 15px;
+}
+
+h2 {
+  font-family: monospace;
+}
+
+p {
+  font-family: monospace;
+  font-size: 15px;
+}
